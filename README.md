@@ -1,0 +1,2 @@
+# dotnetdemothree
+autoidgenerateinaspdotnet
